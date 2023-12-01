@@ -1,0 +1,146 @@
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    }
+
+*{
+    font-family: 'Pretendard-Regular' !important;
+}
+
+.meeting-menu {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    width: 224px !important;
+    left: 16px !important;
+    background: #FFFFFF !important;
+    border: #080707 !important;
+}
+
+.meeting-nav-left {
+    /* position: absolute !important; */
+    width: 256px !important;
+    height: 800px !important;
+    left: 0px !important;
+    /* top: 80px; */
+    /* background: #725f5f; */
+    /* background: #ffffff; */
+    padding-top: 30px !important;
+}
+
+.meeting-menu-item {
+    padding: 12px 8px !important;
+    margin: 17px 0px;
+    /* gap: 8px; */
+    width: 224px !important;
+    height: 48px !important;
+    border: #FFFFFF !important;
+    background: #ffffff !important;
+    font-family: 'Roboto'!important;
+    font-style: normal !important;
+    font-size: 16px !important;
+    font-weight: 700 !important;
+    /* color: #21272A; */
+}
+
+.btn-menu-item{
+    /* background: #e1d8e5; */
+    text-align: center !important;
+    border-radius: 8px !important;
+    border: #6129FF solid !important;
+}
+
+.btn-menu-item a{
+    /* background: #e1d8e5; */
+    color: #6129FF !important;
+}
+
+
+.btn-menu-item:hover{
+    border: #6129FF solid !important;
+    background-color: #6129FF !important;
+    color: #FFFFFF !important;
+}
+
+.btn-menu-item:hover a{
+    color: #FFFFFF !important;
+}
+
+.nav-link {
+    padding: 9px !important;
+    display: inline-block !important;
+    text-decoration: none !important;
+    /* color: #6129FF; */
+
+    font-family: 'Roboto' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 18px !important;
+}
+
+/* meeting-search */
+.meeting-search {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    padding: 12px 16px !important;
+    gap: 8px !important;
+    width: 990px !important;
+    height: 48px !important;
+    /* background: #F2F4F8; CoolGray/10 */
+    border-bottom: 1px solid #C1C7CD !important; /* CoolGray/30 */
+    border-radius: 8px !important;
+
+    margin-left: 70px !important;
+}
+
+form {
+    width: 80% !important;
+}
+
+.meeting-search #search-submit {
+    padding-top: 10px !important;
+    padding-right: 35px !important;
+    width: 30px !important;
+    height: 30px !important;
+}
+
+.meeting-search #search-text {
+    font-family: 'Roboto' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 140% !important;
+    color: #697077 !important;/* CoolGray/60 */
+    width: 631px !important;
+    height: 48px !important;
+    border: #f2f4f8 !important;
+    background: #F2F4F8 !important;
+    padding-left: 15px !important;
+    border-radius: 10px !important;
+}
+
+.search-label {
+    width: 900px !important;
+    padding-bottom: 15px !important;
+    /* display: flex;
+    flex-direction: row;
+    align-items: flex-start; */
+}
+/* Insert Meeting Button */
+.make-meeting-button {
+    width: 136px    ;
+    height: 45px !important;
+    background: #6129FF !important;
+    border: 2px solid #6129FF !important;
+    border-radius: 8px !important;
+    font-family: 'Roboto' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 15px !important;
+    line-height: 100% !important;
+    letter-spacing: 0.5px !important;
+    color: #FFFFFF; /* Default/White */
+}

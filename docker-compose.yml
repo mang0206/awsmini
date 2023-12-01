@@ -1,0 +1,46 @@
+version: "1"
+services:
+  unimariadb:
+    image: mariadb
+    container_name: unimariadb
+    networks:
+      - Unimeetingnet
+    volumes:
+      - mariadbvol:/var/lib/mysql
+    restart: always
+    environment:
+      MARIADB_ROOT_PASSWORD: 1234
+      MARIADB_DATABASE: uni_meeting
+      MARIADB_USER: jdbctest
+      MARIADB_PASSWORD: jdbctest
+    ports:
+      - 3306:3306
+
+  unimeeting2:
+    depends_on:
+      - unimariadb
+    container_name: Unimeeting2
+    build:
+      context: ./unimeeting
+      dockerfile: Dockerfile
+    networks:
+      - Unimeetingnet
+    ports:
+      - 8090:8090
+    restart: on-failure
+
+  vue:
+    build:
+      context: ./vue-project
+      dockerfile: Dockerfile  # Vue.js 프로젝트의 Dockerfile 경로
+    container_name: vue-nginx
+    ports:
+      - 5173:80
+    restart: always
+    networks:
+      - Unimeetingnet
+
+networks:
+  Unimeetingnet:
+volumes:
+  mariadbvol:

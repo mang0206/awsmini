@@ -1,0 +1,609 @@
+[33mcommit 0a65fa17a88d995d5bcb9fb7a423f47af1e3124a[m[33m ([m[1;36mHEAD -> [m[1;32mAL[m[33m, [m[1;31morigin/AL[m[33m)[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Sun Nov 19 20:04:03 2023 +0900
+
+    vue-project 실행이 안돼
+
+[33mcommit d2a057a28ba518a664002eb472496df2ffc2a04c[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Sun Nov 19 19:40:27 2023 +0900
+
+    fix error
+
+[33mcommit 11c721a30c7cfb3b12b603dee24124acc4ff5f8f[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Fri Nov 17 22:35:42 2023 +0900
+
+    security
+
+[33mcommit cb3516da3db80657c57a9ccc372f15db046a23db[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Thu Nov 16 18:25:09 2023 +0900
+
+    fix error
+
+[33mcommit 83998342d7d16a74e63ba564ee52d730c3cbb5b0[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Thu Nov 16 18:13:03 2023 +0900
+
+    fix error
+
+[33mcommit 90111e77a7f9205383e471f2b95aed0273572b47[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Thu Nov 16 18:07:24 2023 +0900
+
+    merge
+
+[33mcommit 026fa04c13f4eb3bcaa47401124cd5dc11c199f1[m
+Merge: 3fcae42 556c805
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Thu Nov 16 18:07:05 2023 +0900
+
+    Merge branch 'DW'
+
+[33mcommit 556c805c6fefb9f8c503d7a09621c47fab9dce66[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Thu Nov 16 18:06:20 2023 +0900
+
+    d
+
+[33mcommit 3fcae42a6fb2f941ae84b3cc2707fc3a96eb6ede[m
+Merge: c082a9e 221ff8a
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Thu Nov 16 18:04:06 2023 +0900
+
+    merge
+
+[33mcommit c082a9e8280fbc47438de3a69f2fec3177c2012c[m
+Merge: e676f02 74050bf
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Thu Nov 16 18:01:09 2023 +0900
+
+    merge
+
+[33mcommit e676f029afbb0c37a17ae5905f03a69ace9902d1[m
+Merge: 935795b df73adf
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Thu Nov 16 17:58:58 2023 +0900
+
+    merge
+
+[33mcommit 935795bfb00aee13bb48d657ad193be17f8f08c2[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Thu Nov 16 17:52:01 2023 +0900
+
+    vue ing
+
+[33mcommit 221ff8a76856f1e02719c407e243413787d0b0b4[m
+Author: mang0206 <alswosp0206@naver.com>
+Date:   Thu Nov 16 17:48:35 2023 +0900
+
+    Modified Mypage and MeetingPage
+
+[33mcommit df73adf2c7fb508c25f076a1102bd4a4283ff9a5[m
+Author: koo1996 <koodo1996@gmail.com>
+Date:   Thu Nov 16 17:39:28 2023 +0900
+
+    update
+
+[33mcommit 74050bf9e24a12b44240e9a0337a3961519f3f9d[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Thu Nov 16 15:03:11 2023 +0900
+
+    BoardListVue
+
+[33mcommit 53bb992f54fb08454e12662347722a69f0c1ade9[m
+Author: mang0206 <alswosp0206@naver.com>
+Date:   Wed Nov 15 19:48:18 2023 +0900
+
+    Modified Mypage
+
+[33mcommit 32a667e30ae52ddda1254087d4d354885ca63c38[m
+Author: koo1996 <koodo1996@gmail.com>
+Date:   Wed Nov 15 18:50:38 2023 +0900
+
+    update
+
+[33mcommit fa56c5b84629f91c49bf33a8adcc6c7b05d9f87d[m
+Merge: c217c4d 781cc8f
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Wed Nov 15 16:54:42 2023 +0900
+
+    merge
+
+[33mcommit c217c4d0a15219f5f29dc7eee007d52652d2dafd[m
+Merge: a864973 f4c2960
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Wed Nov 15 16:54:20 2023 +0900
+
+    merge
+
+[33mcommit a864973f444e43f59211330cdfdd55c4337760eb[m
+Merge: 9c79391 15b8483
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Wed Nov 15 16:52:22 2023 +0900
+
+    merge
+
+[33mcommit 9c79391efe3cf7d35691273be5144b8d8e9ae883[m
+Merge: 65572c2 e49ae4b
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Wed Nov 15 16:46:12 2023 +0900
+
+    merge
+
+[33mcommit e49ae4b2848319bc077e0a5f64fe9c2b3175695b[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Wed Nov 15 16:40:56 2023 +0900
+
+    merge
+
+[33mcommit 15b8483e4cea47732550af5f9f0411d6fcbbf59b[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Wed Nov 15 16:36:58 2023 +0900
+
+    d
+
+[33mcommit f4c2960b2e1c4049646f9ffe1b8760f82cc8b071[m
+Author: koo1996 <koodo1996@gmail.com>
+Date:   Wed Nov 15 16:35:56 2023 +0900
+
+    update
+
+[33mcommit 781cc8f2274cb3c3bec3cdf8a8894969b6792e53[m
+Author: mang0206 <alswosp0206@naver.com>
+Date:   Wed Nov 15 16:35:02 2023 +0900
+
+    Add Vue Project
+
+[33mcommit e2e0890b5cd2875b389b003c752932237bf3f57c[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Wed Nov 15 16:34:00 2023 +0900
+
+    merge
+
+[33mcommit 1c4958c19b4d149e478537682a6c3024509fa744[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Wed Nov 15 15:26:03 2023 +0900
+
+    add config
+
+[33mcommit 6ec0585af41b6001e570d841dde6c5566ac204df[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Wed Nov 15 14:57:40 2023 +0900
+
+    commit AL
+
+[33mcommit af9a58404519aa2487dbe4eeb866f4ec251f7d4c[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Wed Nov 15 14:51:35 2023 +0900
+
+    merge DW
+
+[33mcommit a14f42555a26466c7f3bf508f8aaec92cece0ba3[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Wed Nov 15 14:50:06 2023 +0900
+
+    s scrt
+
+[33mcommit 34b0c00864dca1bf963a3758ee317c7b0adf836c[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Wed Nov 15 09:44:52 2023 +0900
+
+    LoginRequestDTO
+
+[33mcommit c5405b802d3057642dd97012b6345a62e0d1e574[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Tue Nov 14 20:58:28 2023 +0900
+
+    security
+
+[33mcommit 02b0876c85b4dd2043814b86096e34a3e1147932[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Tue Nov 14 18:11:58 2023 +0900
+
+    s security
+
+[33mcommit f110cb879c876d2af04a3ea9d02b915bd7e13a25[m
+Author: koo1996 <koodo1996@gmail.com>
+Date:   Tue Nov 14 17:36:08 2023 +0900
+
+    update
+
+[33mcommit c4a47251049be98233fb46d7121ab714794f6b2f[m
+Author: mang0206 <alswosp0206@naver.com>
+Date:   Tue Nov 14 17:10:17 2023 +0900
+
+    Add Vue project
+
+[33mcommit 4be99ee279977465a81c22260ee80dd2b964f238[m
+Merge: b4998eb 78eee93
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Tue Nov 14 12:03:57 2023 +0900
+
+    ignore idea
+
+[33mcommit 78eee932d9adb327b8b321497f37c58ccc213d03[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Tue Nov 14 11:57:56 2023 +0900
+
+    ignore idea
+
+[33mcommit 65572c2b8f2060b51cae034d393f4eeecefeee45[m
+Merge: a2dd047 90bde83
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Tue Nov 14 11:54:49 2023 +0900
+
+    Ignore .idea
+
+[33mcommit a2dd047646fd3893dfe00b7b8898dda08cabf2be[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Tue Nov 14 11:52:40 2023 +0900
+
+    merge
+
+[33mcommit 5cc4ff66c7512ca4443d455089ebeeeaa49f3568[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Tue Nov 14 11:50:39 2023 +0900
+
+    fix error
+
+[33mcommit 1ec681485676edceb1019c09d01445be8a9bc4ff[m
+Merge: dcfbc19 90bde83
+Author: koo1996 <koodo1996@gmail.com>
+Date:   Tue Nov 14 11:50:25 2023 +0900
+
+    Merge branch 'main' into DH
+
+[33mcommit dcfbc19a1800f041176cccc4d13dc26bea1df50e[m
+Author: koo1996 <koodo1996@gmail.com>
+Date:   Tue Nov 14 11:49:56 2023 +0900
+
+    d
+
+[33mcommit 90bde8346948d21ede9d1a126aae5f0a6e2b5db0[m
+Author: mang0206 <alswosp0206@naver.com>
+Date:   Tue Nov 14 11:48:51 2023 +0900
+
+    idea ignore
+
+[33mcommit 3bbbb94121e4ee1b55b9a472113db69326e329a7[m
+Merge: 13ff527 5989b4b
+Author: mang0206 <alswosp0206@naver.com>
+Date:   Tue Nov 14 11:46:08 2023 +0900
+
+    merge issue
+
+[33mcommit 13ff527140073f9302e99e459a591afa4448525c[m
+Author: mang0206 <alswosp0206@naver.com>
+Date:   Tue Nov 14 11:39:49 2023 +0900
+
+    m
+
+[33mcommit b4998eb0deadf4f65aa3eb137c7996206110433d[m
+Merge: f6633ed 5989b4b
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Tue Nov 14 11:33:50 2023 +0900
+
+    d
+
+[33mcommit 5989b4bc9f117a42ced9e5d3fda2170f834b5e5c[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Tue Nov 14 11:28:18 2023 +0900
+
+    D
+
+[33mcommit 8e0b4e4c2757f330e1f81b398b8be0e6428c263c[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Tue Nov 14 11:25:49 2023 +0900
+
+    d
+
+[33mcommit 83169de3bd99ad1a962dc72c8b49ae670098ccbb[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Tue Nov 14 10:57:11 2023 +0900
+
+    d
+
+[33mcommit 362db85300340742381449c19ed15661d34e35ef[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Tue Nov 14 11:20:00 2023 +0900
+
+    g
+
+[33mcommit ebf8f34dd753a80889e529e09500a8406257e2e8[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Tue Nov 14 11:17:25 2023 +0900
+
+    Merge issue
+
+[33mcommit f6633ed20f2b76376c5048908b3d484bf8bb0be3[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Tue Nov 14 10:57:28 2023 +0900
+
+    d
+
+[33mcommit 027d55fc146fda98ca7613d3f73d2defbacbdd82[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Tue Nov 14 10:57:11 2023 +0900
+
+    d
+
+[33mcommit c950df6efa9f0e81d3731a957ee56b9333359b5d[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Tue Nov 14 10:53:44 2023 +0900
+
+    ignore idea
+
+[33mcommit 2f783352ef4ba4615fe9b8c7e9a0b0a43f6ea29d[m
+Merge: 77e8c21 2abe5a1
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Tue Nov 14 10:43:57 2023 +0900
+
+    Merge
+
+[33mcommit 637c9b752743096081be6a8990d6787f305dac27[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Tue Nov 14 10:31:36 2023 +0900
+
+    D
+
+[33mcommit 77e8c21b33473d92919ec14dbc25d99886813c14[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Tue Nov 14 10:26:13 2023 +0900
+
+    merge issue
+
+[33mcommit 2abe5a192af1f4195c2e9b96ce6f2aaf11ba0adb[m
+Merge: cb52656 b909198
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Tue Nov 14 10:20:27 2023 +0900
+
+    d
+
+[33mcommit cb5265666f04e12168304f56147d6dcb7fefb58f[m
+Merge: b7b2453 7f04dad
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Tue Nov 14 10:18:29 2023 +0900
+
+    Merge branch 'MJ'
+
+[33mcommit b7b2453fa3f335da2beaf495e22ac16aa7d71064[m
+Merge: 66fb11a 960d085
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Tue Nov 14 10:11:02 2023 +0900
+
+    d
+
+[33mcommit b909198bfd056db38875345ada2883c460586724[m
+Author: koo1996 <koodo1996@gmail.com>
+Date:   Tue Nov 14 10:10:58 2023 +0900
+
+    update
+
+[33mcommit 66fb11ac63f7d75a465ca28837aad0def599fe0b[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Tue Nov 14 10:02:16 2023 +0900
+
+    z
+
+[33mcommit 7f04dad6fd68ff9ae9e64b39215433bed9832f09[m
+Author: mang0206 <alswosp0206@naver.com>
+Date:   Tue Nov 14 09:58:32 2023 +0900
+
+    Add Rest API in controller
+
+[33mcommit e0ed88c1eafabe8a5a386d73340406bb99eeddab[m
+Author: alswosp0206 <alswosp0206@naver.com>
+Date:   Tue Nov 14 03:51:50 2023 +0900
+
+    Testing Mypage Service
+
+[33mcommit 713aa34ee215dcc98b552fcbe9dfc01228af73b8[m
+Author: mang0206 <alswosp0206@naver.com>
+Date:   Mon Nov 13 22:48:13 2023 +0900
+
+    Add repository
+
+[33mcommit 9fcd408ccef081aee2f90243c3f93ec626cb9084[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Mon Nov 13 20:10:25 2023 +0900
+
+    controller
+
+[33mcommit 7d8e120436d33fddbd0bf422861de1310491fc6a[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Sun Nov 12 22:03:33 2023 +0900
+
+    DWDW
+
+[33mcommit da93ba430ffd22c448f04c9d90e30dfcb116ba17[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Sun Nov 12 18:55:17 2023 +0900
+
+    t
+
+[33mcommit 45e5ceab987de12d66e5e82faacd10b04e8b6c67[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Sun Nov 12 18:51:16 2023 +0900
+
+    test
+
+[33mcommit f5d951737af33f99c007b95bb0d83dfdfcc12d46[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Sun Nov 12 18:34:48 2023 +0900
+
+    t
+
+[33mcommit efd9d97d73a2581a52e400bcaa02017975c432a9[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Sun Nov 12 18:21:14 2023 +0900
+
+    BRT
+
+[33mcommit 960d0853b207cc1e2bfae7f810b8efa3ab60b321[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Sat Nov 11 20:35:52 2023 +0900
+
+    Controller, Service, DTO ing
+
+[33mcommit 210f3b56cfd90c486a2fc7f68e2e7c76fce5b51b[m
+Author: koo1996 <koodo1996@gmail.com>
+Date:   Fri Nov 10 18:45:36 2023 +0900
+
+    update
+
+[33mcommit 25400745178ce14fce09ecdd984e770c677f4dd2[m
+Merge: 6b0b695 6848e38
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Fri Nov 10 17:48:51 2023 +0900
+
+    test
+
+[33mcommit 707360d7f51ca7914024586d85319d2a998a5070[m
+Merge: 55f46d1 6848e38
+Author: koo1996 <koodo1996@gmail.com>
+Date:   Fri Nov 10 17:43:53 2023 +0900
+
+    sava
+
+[33mcommit 971817c01e1d482fc798be5e2eba708f237b9bc4[m
+Merge: 4c1f6de 6848e38
+Author: mang0206 <alswosp0206@naver.com>
+Date:   Fri Nov 10 17:38:24 2023 +0900
+
+    merge issue
+
+[33mcommit 55f46d1cecfd12efed3b76d371a811de3b0d7978[m
+Author: koo1996 <koodo1996@gmail.com>
+Date:   Fri Nov 10 17:36:52 2023 +0900
+
+    save
+
+[33mcommit 4c1f6de8a3da375123f930853322fd68ef194160[m
+Author: mang0206 <alswosp0206@naver.com>
+Date:   Fri Nov 10 17:35:51 2023 +0900
+
+    add dto
+
+[33mcommit 6848e38530aeac64b4cadf54e9589a97a22711f0[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Fri Nov 10 17:32:46 2023 +0900
+
+    update entity
+
+[33mcommit 8889e0582dcf053ceda305d147737b2e997a7d79[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Fri Nov 10 16:08:20 2023 +0900
+
+    security
+
+[33mcommit 994dae3dcdd278758fcb783b1e7d177217b749f5[m
+Author: mang0206 <alswosp0206@naver.com>
+Date:   Thu Nov 9 18:05:16 2023 +0900
+
+    create dto
+
+[33mcommit 7e8b3e15280cb3a8bc593a42e3193e6bd386b03d[m
+Merge: c3b9d6c acedba1
+Author: mang0206 <alswosp0206@naver.com>
+Date:   Thu Nov 9 16:28:47 2023 +0900
+
+    Fix merge complite
+
+[33mcommit c3b9d6c8882bddc287993add0366c3f056abce0e[m
+Author: mang0206 <alswosp0206@naver.com>
+Date:   Thu Nov 9 13:47:38 2023 +0900
+
+    merge issue
+
+[33mcommit fb71d5c25bcac0949698ffa4ce3f749c26f8ba34[m
+Author: koo1996 <koodo1996@gmail.com>
+Date:   Thu Nov 9 02:06:20 2023 +0900
+
+    update
+
+[33mcommit acedba14104595383cd12597ae39b662a532e1db[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Wed Nov 8 19:56:00 2023 +0900
+
+    completed test
+
+[33mcommit e64168085eb28770dfd0dabb0281d60b5451c7d2[m
+Author: koo1996 <koodo1996@gmail.com>
+Date:   Wed Nov 8 18:48:39 2023 +0900
+
+    upate
+
+[33mcommit 6b0b69507759c62dc49895feb2831528065eab52[m
+Author: hapalpal <ehddnsla0102@naver.com>
+Date:   Tue Nov 7 20:29:13 2023 +0900
+
+    t
+
+[33mcommit 6c3d01660d943c999438d24f18590f3f59a973a0[m
+Author: mang0206 <alswosp0206@naver.com>
+Date:   Tue Nov 7 18:51:41 2023 +0900
+
+    Modified JPA
+
+[33mcommit 4cb5d747b63fe7f744a12054e717bb49402f19d8[m
+Author: mang0206 <alswosp0206@naver.com>
+Date:   Tue Nov 7 16:43:06 2023 +0900
+
+    Modified JPA Test
+
+[33mcommit 1e878d94c6ca7a9981120e1c91c8d1eee573b498[m
+Merge: e476092 6ac55e9
+Author: mang0206 <alswosp0206@naver.com>
+Date:   Tue Nov 7 16:18:04 2023 +0900
+
+    Merge branch 'main' into MJ
+
+[33mcommit e476092d303b264252c60b191bc53ff68fa8489d[m
+Author: mang0206 <alswosp0206@naver.com>
+Date:   Tue Nov 7 16:17:44 2023 +0900
+
+    Add Test Data JPa
+
+[33mcommit 505bc72aa07e3456b5f0c927d9087273a3f4d6bc[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Tue Nov 7 01:55:25 2023 +0900
+
+    acompleted meeting and meeting_image repository add,test / adding membe repository
+
+[33mcommit d5aacce225e8be395191127c1759bb003685d363[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Mon Nov 6 21:18:12 2023 +0900
+
+    add repository
+
+[33mcommit 024adf014f2c1a2e2ade35c00166beefe991d387[m[33m ([m[1;31morigin/MJ[m[33m)[m
+Author: mang0206 <alswosp0206@naver.com>
+Date:   Mon Nov 6 19:33:45 2023 +0900
+
+    Create domain Entity files for test JPA
+
+[33mcommit 6ac55e94c81aa5a146ebe39e3500ff298f9f88e6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/DW[m[33m, [m[1;32mmaster[m[33m, [m[1;32mmain[m[33m)[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Mon Nov 6 17:32:54 2023 +0900
+
+    application properties setting
+
+[33mcommit 094155c86f3e5fe84b73982bd8dfab3c55479a6a[m[33m ([m[1;31morigin/DH[m[33m)[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Mon Nov 6 16:58:57 2023 +0900
+
+    setting
+
+[33mcommit 630c9ecf6e90cb5c107ce718a736ab9cd5b5c76f[m
+Author: jeon-aelim <devaelim@gmail.com>
+Date:   Mon Nov 6 16:31:28 2023 +0900
+
+    setting
+
+[33mcommit 559dbf880b6f6be3e4737255189bc9e5800e7a3d[m
+Author: jeon-aelim <120872728+jeon-aelim@users.noreply.github.com>
+Date:   Mon Nov 6 16:20:45 2023 +0900
+
+    Initial commit
