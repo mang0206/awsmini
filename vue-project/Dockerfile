@@ -1,4 +1,5 @@
 FROM node:20.9.0 as develop-stage
+RUN mkdir /app
 WORKDIR /app
 COPY package*.json ./
 RUN npm install
