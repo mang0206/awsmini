@@ -163,7 +163,7 @@ export default {
             }
 
             try {
-                const response = await axios.get(`http://localhost:8090/user/user_id/${user_id}`);
+                const response = await axios.get(`http://13.58.59.124:8090/user/user_id/${user_id}`);
                 if (response.data === "중복된 아이디입니다.") {
                     this.availabilityMessage = "중복된 아이디입니다. 다른 아이디를 입력해주세요.";
                 } else {
